@@ -1,4 +1,2 @@
-<h1> Hello Dear Students!! Welcome to DevOps Project-2!! </h1>
-<h2> this is Sourabh from Mangalore  </h2>
-<h2> iam devops engineer at wipro </h2>
-<h2> from past 2 years </h2>
+<h1>Once a push is made to test branch copy git files to test server </h1>
+
